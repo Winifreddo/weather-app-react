@@ -20,7 +20,7 @@ weatherUrl: "https://ssl.gstatic.com/onebox/weather/64/snow.png"
             <strong>{overviewData.temperature}</strong>
             </span>
             <span className="units">
-              <a href="/">°C</a> | <a href="/">°F</a>
+              <span>°C</span> | <span>°F</span>
               </span>
               </span>
               </div>
