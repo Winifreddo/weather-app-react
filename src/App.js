@@ -10,7 +10,9 @@ function App() {
      <Form />
      <Weather />
      <Row />
-
+<p >
+  <a href="https://github.com/Winifreddo/weather-app-react" className="link">Open-Source code</a> by Leigh Richards
+</p>
       </div>
     </div>
   );
