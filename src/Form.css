@@ -1,0 +1,8 @@
+.Form {
+    display: block;
+    width: 100%;
+    margin: 20px 10px;
+  }
+  .Form .search {
+    border-color:#ced4da;
+  }

@@ -1,0 +1,23 @@
+.Weather ul {
+    list-style: none;
+    margin-left: -20px;
+    }
+    
+    .Weather h1 {
+    font-size: 28px;
+    font-weight: normal;
+    margin-left: 14px;
+    
+    }
+    .Weather {
+    background: #83C5BE;
+    border-radius: 60px;
+    color: white;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    
+    
+    margin-bottom: 20px;
+    
+    }
